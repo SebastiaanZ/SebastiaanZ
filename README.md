@@ -4,7 +4,7 @@
 
 <a href="https://pythondiscord.com"><img width="240" align="right" src="https://github.com/SebastiaanZ/SebastiaanZ/blob/main/welcome_to_pydis.png?raw=true"></a>
 
-My name is **Sebastaan Zeeff**, a passionate Python developer and owner of Python Discord, an international Python Community with over 100,000 members. I've been writing code for most of my life in languages such as Python, R, JavaScript, C++, and Rust.
+My name is **Sebastaan Zeeff**. I am a passionate Python developer and owner of Python Discord, an international Python Community with over 100,000 members. I've been writing code for most of my life in languages such as Python, R, JavaScript, C++, and Rust.
 
 I my free time, I maintain and oversee several open source projects, including [Async RedisCache](https://github.com/python-discord/async-rediscache), [GitHub Actions Status Embed for Discord](https://github.com/SebastiaanZ/github-status-embed-for-discord) and several projects hosted on the [Python Discord GitHub Organization](https://github.com/python-discord). I've also contributed to various other open source projects.
 
